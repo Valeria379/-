@@ -1,0 +1,12 @@
+index;поле;тип в pandas;тип в DataLens;пример
+0;seller_id;object;Строка;0015a82c2db000af6aaaf3ae2ecb0532
+1;seller_state;object;Строка;SP
+2;seller_region;object;Строка;Юго-Восток
+3;state_name;object;Строка;Сан-Паулу
+4;state_lat;float64;Дробное число;-23.1668
+5;state_lng;float64;Дробное число;-47.0481
+6;first_month;object;Дата;01.09.2017
+7;active_months;int64;Целое число;2
+8;items;int64;Целое число;3
+9;revenue;float64;Дробное число;2685
+10;avg_review;float64;Дробное число;мар.67
